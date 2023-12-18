@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage{hyperref}
+
+\begin{document}
+
+\section*{Online Sources for Web Application Systems Topics}
+
+\begin{itemize}
+    \item \textbf{Introduction to Web Technologies:}
+        \begin{itemize}
+            \item \textbf{Description:} Covers foundational concepts of the internet, including client-server architecture, HTTP, and basic web principles.
+            \item \href{https://developer.mozilla.org/en-US/docs/Web}{MDN Web Docs}: Provides detailed documentation on web technologies and best practices.
+            \item \href{https://www.w3schools.com/}{W3Schools}: Offers tutorials and references for HTML, CSS, JavaScript, and other web technologies.
+            \item \href{https://www.codecademy.com/}{Codecademy}: Provides interactive coding exercises for learning web development languages and concepts.
+        \end{itemize}
+        
+    \item \textbf{HTML, CSS, and JavaScript:}
+        \begin{itemize}
+            \item \textbf{Description:} Fundamentals of web markup (HTML), styling (CSS), and client-side scripting (JavaScript).
+            \item \href{https://www.freecodecamp.org/}{FreeCodeCamp}: Offers free coding challenges and projects for HTML, CSS, and JavaScript.
+            \item \href{https://www.codecademy.com/}{Codecademy}: Provides interactive courses on HTML, CSS, and JavaScript.
+            \item \href{https://developer.mozilla.org/en-US/docs/Web}{MDN Web Docs}: Offers comprehensive guides on HTML, CSS, and JavaScript.
+        \end{itemize}
+        
+    \item \textbf{Backend Development:}
+        \begin{itemize}
+            \item \textbf{Description:} Covers server-side programming languages and frameworks for handling requests, databases, and server deployment.
+            \item \href{https://nodejs.org/en/docs/}{Node.js Documentation}: Official documentation for Node.js, a popular JavaScript runtime for server-side development.
+            \item \href{https://docs.djangoproject.com/en/}{Django Documentation}: Official documentation for Django, a high-level Python web framework.
+            \item \href{https://flask.palletsprojects.com/en/}{Flask Documentation}: Official documentation for Flask, a lightweight Python web framework.
+        \end{itemize}
+        
+    % ... Repeat the structure for other topics ...
+
+\end{itemize}
+
+\end{document}
